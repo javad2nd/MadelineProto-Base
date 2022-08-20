@@ -1,5 +1,5 @@
 # MadelineProto + Async Mysql
-This is an basic sample of MadelineProto with async MySQL Database.
+This is MadelineProto with async MySQL Database example! :D
 
 ### Requirements:
 php >= 8.0
