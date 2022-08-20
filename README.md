@@ -6,7 +6,7 @@ php >= 8.0
 
 ### Installation:
 1. Install MadelineProto via composer:
- ```composer require danog/madelineproto ```
+ `composer require danog/madelineproto`
  or see more details [here](https://docs.madelineproto.xyz/docs/INSTALLATION.html).
  
  
